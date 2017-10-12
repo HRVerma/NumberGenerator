@@ -10,6 +10,8 @@ public class AppTest {
 
 		App obj = new App();
 		Assert.assertEquals(36, obj.generateUniqueKey().length());
+		
+		
 
 	}
 }
